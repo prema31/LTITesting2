@@ -1,0 +1,6 @@
+public class Test1{
+@Test
+public void TC1(){
+system.out.println("test case1");
+}
+}
